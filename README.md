@@ -18,7 +18,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 * Portfolio
 
 ## contact me
-*allows someone to be able to send their email
+* form to allow someone to be able to send their email to contact Kate Hamilton 
 
 ## website 
 
