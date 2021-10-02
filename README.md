@@ -21,7 +21,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 * form to allow someone to be able to send their email to contact Kate Hamilton 
 
 ## website 
-[Test Image 1](assets/images/screenshot.png)
+(assets/images/screenshot.png)
 
 
 ## Contributions 
