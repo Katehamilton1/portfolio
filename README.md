@@ -22,13 +22,11 @@ Portfolio to display projects and introduce myself in order for others to contac
 
 ## website 
 
-![alt text](screenshot.jpg)
+![Alt text](assets/images/screenshot.jpg)
 
 ## Contributions 
 * Made by Kate Hamilton 
 
-## license
-*MIT
 
 
 
