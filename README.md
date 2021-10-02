@@ -20,8 +20,9 @@ Portfolio to display projects and introduce myself in order for others to contac
 ## contact me
 * form to allow someone to be able to send their email to contact Kate Hamilton 
 
-## website 
-(assets/images/screenshot.png)
+## website
+<img src="assets/images/screenshot.png"/>
+
 
 
 ## Contributions 
