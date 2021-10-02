@@ -15,7 +15,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 ## projects 
 * Run Buddy
 * Horiseons
-*Portfolio
+* Portfolio
 
 ## contact me
 *allows someone to be able to send their email
@@ -24,7 +24,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 
 
 ## Contributions 
-*Made by Kate Hamilton 
+* Made by Kate Hamilton 
 
 ## license
 *MIT
