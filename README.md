@@ -22,7 +22,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 
 ## website 
 
-![Alt text](assets/images/screenshot.jpg)
+<img src="assets/images/screenshot.jpg">
 
 ## Contributions 
 * Made by Kate Hamilton 
