@@ -22,7 +22,7 @@ Portfolio to display projects and introduce myself in order for others to contac
 
 ## website
 
-! [Alt text] (/assets/images/screenshot.png)
+! [Alt text](/assets/images/screenshot.png)
 
 
 
