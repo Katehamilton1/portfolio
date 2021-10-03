@@ -20,14 +20,16 @@ Portfolio to display projects and introduce myself in order for others to contac
 ## contact me
 * form to allow someone to be able to send their email to contact Kate Hamilton 
 
-## website 
+## website
+https://katehamilton1.github.io/portfolio/
+
+![screenshot](https://user-images.githubusercontent.com/90042533/135749611-8c75d6e8-783b-4ff9-96eb-583b7536a72a.png)
+
 
 
 ## Contributions 
 * Made by Kate Hamilton 
 
-## license
-*MIT
 
 
 
