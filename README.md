@@ -22,7 +22,8 @@ Portfolio to display projects and introduce myself in order for others to contac
 
 ## website
 
-#![screenshot](./assets/images/screenshot.png?raw=true)
+
+![screenshot](https://user-images.githubusercontent.com/90042533/135749611-8c75d6e8-783b-4ff9-96eb-583b7536a72a.png)
 
 
 
