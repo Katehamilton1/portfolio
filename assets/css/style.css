@@ -19,8 +19,6 @@ header {
     padding-top:20px;
     padding-bottom: 10px;
     padding-left: 40px;
-
-    
 }
  
 header a {
@@ -103,6 +101,23 @@ header nav ul li a {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.big-project {
+ 
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.big-project img {
+  width: 650px;
+  height: 450px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  transition: transform .2s;
+  border-radius: 10px
+}
+
+
 .project img {
     width: 350px;
     height: 250px;
@@ -111,8 +126,6 @@ header nav ul li a {
     transition: transform .2s;
     border-radius: 10px
 }
-
-
 
 .project img:hover {
       transform: scale(1.5); 
@@ -234,7 +247,6 @@ header nav ul li a {
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 600px) {
 
-
   .hero img {
     height: 350px;
     width: 350px;
@@ -254,10 +266,9 @@ header nav ul li a {
 
 .project-section{
   font-size: 20px;
+}
 
-
-
-    
+}
 
 
 
